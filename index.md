@@ -6,50 +6,34 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+My Name is Puneeth Lawrence and I am intrested in the field of cybersecurity. I am a driven cybersecurity enthusiast with a Certification in CEH 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My Objective is to leverage my technical expertise, I aim to showcase my projects and their real-world applications as a testament to my skills and dedication to the field.
 
-# Header 1
+# Project 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+As part of a hands-on project, I successfully created a NAT (Network Address Translation) network to connect multiple virtual machines (VMs) within a controlled environment. Utilizing VirtualBox, I configured a NAT network to facilitate seamless communication between the VMs while isolating them from the external network. Each VM was assigned a private IP.
 
-## Header 2
+# Project 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
+# Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+# Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# Technical Skills
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
