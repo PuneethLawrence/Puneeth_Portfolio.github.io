@@ -31,10 +31,13 @@ I exploited a Windows 7 machine using Kali Linux and a few tools like Metasploit
 |              |                   |                |
 |--------------|-------------------|----------------|
 | nmap         | Hydra             | metasploit     |
-| burpsuit     | Medusa            | mfsvenom       |
-| nessus       | John the Ripper   | XSS            |
+| Burpsuit     | Medusa            | mfsvenom       |
+| Nessus       | John the Ripper   | XSS            |
 | Wireshark    | Angry IP scanner  | SQL injection  |
 
+
+
+# Personal Information
 
 <dl>
 <dt>Name</dt>
