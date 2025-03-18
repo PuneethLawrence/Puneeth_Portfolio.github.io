@@ -28,7 +28,7 @@ I exploited a Windows 7 machine using Kali Linux and a few tools like Metasploit
 
 # Technical Skills
 
-
+|              |                   |                |
 |:-------------|:------------------|:---------------|
 | nmap         | Hydra             | metasploit     |
 | burpsuit     | Medusa            | mfsvenom       |
