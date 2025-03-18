@@ -14,6 +14,8 @@ My Objective is to leverage my technical expertise, I aim to showcase my project
 
 As part of a hands-on project, I successfully created a NAT (Network Address Translation) network to connect multiple virtual machines (VMs) within a controlled environment. Utilizing VirtualBox, I configured a NAT network to facilitate seamless communication between the VMs while isolating them from the external network. Each VM was assigned a private IP.
 
+![NAT image](https://github.com/PuneethLawrence/PuneethCybersec.github.io/blob/main/Nat%20net.png)
+
 # Project 2
 
 > This is a blockquote following a header.
