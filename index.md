@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<!---Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
 
-[Link to another page](./another-page.html).
+
 
 My Name is Puneeth Lawrence and I am intrested in the field of cybersecurity. I am a driven cybersecurity enthusiast with a Certification in CEH 
 
@@ -29,12 +29,11 @@ I exploited a Windows 7 machine using Kali Linux and a few tools like Metasploit
 # Technical Skills
 
 |              |                   |                |
-|:-------------|:------------------|:---------------|
+|--------------|-------------------|----------------|
 | nmap         | Hydra             | metasploit     |
 | burpsuit     | Medusa            | mfsvenom       |
 | nessus       | John the Ripper   | XSS            |
 | Wireshark    | Angry IP scanner  | SQL injection  |
-* * * *
 
 
 <dl>
