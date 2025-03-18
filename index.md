@@ -10,100 +10,45 @@ My Name is Puneeth Lawrence and I am intrested in the field of cybersecurity. I 
 
 My Objective is to leverage my technical expertise, I aim to showcase my projects and their real-world applications as a testament to my skills and dedication to the field.
 
-# Project 1
+# Projects
+
+## Setting Up A NAT Network
 
 As part of a hands-on project, I successfully created a NAT (Network Address Translation) network to connect multiple virtual machines (VMs) within a controlled environment. Utilizing VirtualBox, I configured a NAT network to facilitate seamless communication between the VMs while isolating them from the external network. Each VM was assigned a private IP.
 
 ![NAT_image](https://raw.githubusercontent.com/PuneethLawrence/PuneethCybersec.github.io/main/Nat_net.png)
 
-# Project 2
+## Nessus Report
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I used Nessus to scan a Windows 10 machine and identify potential vulnerabilities. After setting up the scan, I configured Nessus to perform a comprehensive network vulnerability assessment, targeting the machine’s open ports, services, and software configurations. The scan highlighted several issues, such as outdated software versions, missing security patches, and weak configurations, all of which could be exploited by attackers. Nessus provided detailed reports on each vulnerability, including their severity levels, and suggested remediation steps to mitigate the risks. This allowed me to gain a clear understanding of the security weaknesses in the Windows 10 system, helping me identify areas for improvement in its defenses.
 
+## Exploiting and Gaining Access to a Machine
 
-# Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-# Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+I exploited a Windows 7 machine using Kali Linux and a few tools like Metasploit, Nmap, and the EternalBlue vulnerability. First, I ran an Nmap scan on the target machine to check for open ports and services, which revealed that SMB (port 445) was active—this was key for exploiting EternalBlue. Once I confirmed the machine was vulnerable, I used Metasploit and the exploit/windows/smb/ms17_010_eternalblue module to take advantage of the flaw. This allowed me to execute remote code on the system. After gaining access, I was able to run commands and potentially access sensitive data, which highlights the importance of patching known vulnerabilities to prevent attacks like this.
 
 # Technical Skills
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+|:-------------|:------------------|:---------------|
+| nmap         | Hydra             | metasploit     |
+| burpsuit     | Medusa            | mfsvenom       |
+| nessus       | John the Ripper   | XSS            |
+| Wireshark    | Angry IP scanner  | SQL injection  |
+* * * *
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Puneeth Lawrence</dd>
 <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>04.05.1998</dd>
+<dt>Nationality</dt>
+<dd>Indian</dd>
+<dt>Languages Known</dt>
+<dd>English, Kannada, Tamil, Hindi, Konkanni</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+As a cybersecurity enthusiast, I’m always exploring new ways to understand and defend against digital threats in this ever-evolving cyber landscape.
 ```
 
-```
-The final element.
-```
