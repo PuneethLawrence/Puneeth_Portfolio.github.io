@@ -15,24 +15,25 @@ I’m a cybersecurity and networking enthusiast with hands-on experience in netw
 # Professional Projects 
 
 ### Zynga | December 2021 - December 2023
-Performed sanity, smoke, and regression testing on Android & iOS applications/games.
-Created and managed JIRA bug tickets; collaborated with developers for timely fixes.
-Promoted from Trainee to Test Engineer based on performance.
-Led a QA team of 5, overseeing testing tasks, KPIs, and training new hires.
-Worked closely with producers, content integrators, and engineers to enable new features.
-Familiar with SCRUM practices, sprint planning, and documentation review.
+- Performed sanity, smoke, and regression testing on Android & iOS applications/games.
+- Created and managed JIRA bug tickets; collaborated with developers for timely fixes.
+- Promoted from Trainee to Test Engineer based on performance.
+- Led a QA team of 5, overseeing testing tasks, KPIs, and training new hires.
+- Worked closely with producers, content integrators, and engineers to enable new features.
+- Familiar with SCRUM practices, sprint planning, and documentation review.
 
 ### BASF | January 2024 - Present 
-Managed hardware, driver, software installation, printer, and O365 incidents.
-Troubleshot network connectivity and performed OS installations.
-Used PowerShell scripts and registry tweaks to resolve installation issues.
-Handled SAP workcycle account requests (creation, deletion, modification) and manual software/printer installations.
-Delivered support within SLA and maintained 100% appointment attendance.
-Created dashboards in ServiceNow and gained experience with Microsoft Intune.
+- Managed hardware, driver, software installation, printer, and O365 incidents.
+- Troubleshot network connectivity and performed OS installations.
+- Used PowerShell scripts and registry tweaks to resolve installation issues.
+- Handled SAP workcycle account requests (creation, deletion, modification) and manual software/printer installations.
+- Delivered support within SLA and maintained 100% appointment attendance.
+- Created dashboards in ServiceNow and gained experience with Microsoft Intune.
+
 
 # Personal Projects 
 
-# CCNA Projects
+## CCNA Projects
 
 Network Simulation Labs (Cisco Packet Tracer & Virtual Machines)
 Developed and deployed multiple network topologies and services in simulated environments to reinforce routing, switching, and security concepts. Key configurations include:
@@ -73,7 +74,7 @@ Simulated WLC deployment for managing SSIDs, access points, and wireless clients
 ### Layer 2 Security Features
 Implemented Dynamic ARP Inspection (DAI) and DHCP Snooping to mitigate Layer 2 attacks and improve switch-level security.
 
-# CEH projects
+## CEH projects
 
 ### Nessus Report
 
