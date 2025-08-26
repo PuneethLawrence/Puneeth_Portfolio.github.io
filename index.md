@@ -12,6 +12,25 @@ I’m a cybersecurity and networking enthusiast with hands-on experience in netw
 - [Next Generation Firewalls](https://drive.google.com/file/d/1pkONXxVUrwuwZwQoQUJTa-QhSFxrxMoV/view?usp=drive_link)  
 - [Wireshark](https://drive.google.com/file/d/1LBhx27JZvtATwQdZFd5LfK0aK0tN3Fnu/view?usp=drive_link)
 
+# Professional Projects 
+
+### Zynga | December 2021 - December 2023
+Performed sanity, smoke, and regression testing on Android & iOS applications/games.
+Created and managed JIRA bug tickets; collaborated with developers for timely fixes.
+Promoted from Trainee to Test Engineer based on performance.
+Led a QA team of 5, overseeing testing tasks, KPIs, and training new hires.
+Worked closely with producers, content integrators, and engineers to enable new features.
+Familiar with SCRUM practices, sprint planning, and documentation review.
+
+### BASF | January 2024 - Present 
+Managed hardware, driver, software installation, printer, and O365 incidents.
+Troubleshot network connectivity and performed OS installations.
+Used PowerShell scripts and registry tweaks to resolve installation issues.
+Handled SAP workcycle account requests (creation, deletion, modification) and manual software/printer installations.
+Delivered support within SLA and maintained 100% appointment attendance.
+Created dashboards in ServiceNow and gained experience with Microsoft Intune.
+
+# Personal Projects 
 
 # CCNA Projects
 
